@@ -1,0 +1,104 @@
+[
+  {
+    "ticker": "WMT",
+    "cik": "0000104169",
+    "industry": "retail",
+    "entity_name": "WALMART INC."
+  },
+  {
+    "ticker": "TGT",
+    "cik": "0000027419",
+    "industry": "retail",
+    "entity_name": "TARGET CORPORATION"
+  },
+  {
+    "ticker": "COST",
+    "cik": "0000909832",
+    "industry": "retail",
+    "entity_name": "COSTCO WHOLESALE CORP /NEW"
+  },
+  {
+    "ticker": "HD",
+    "cik": "0000354950",
+    "industry": "retail",
+    "entity_name": "HOME DEPOT,\u00a0INC."
+  },
+  {
+    "ticker": "LOW",
+    "cik": "0000060667",
+    "industry": "retail",
+    "entity_name": "LOWE\u2019S COMPANIES,\u00a0INC."
+  },
+  {
+    "ticker": "TJX",
+    "cik": "0000109198",
+    "industry": "retail",
+    "entity_name": "THE TJX COMPANIES, INC."
+  },
+  {
+    "ticker": "BBY",
+    "cik": "0000764478",
+    "industry": "retail",
+    "entity_name": "BEST BUY CO., INC."
+  },
+  {
+    "ticker": "KR",
+    "cik": "0000056873",
+    "industry": "retail",
+    "entity_name": "KROGER CO"
+  },
+  {
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "industry": "tech",
+    "entity_name": "Apple Inc."
+  },
+  {
+    "ticker": "MSFT",
+    "cik": "0000789019",
+    "industry": "tech",
+    "entity_name": "MICROSOFT CORPORATION"
+  },
+  {
+    "ticker": "GOOGL",
+    "cik": "0001652044",
+    "industry": "tech",
+    "entity_name": "Alphabet Inc."
+  },
+  {
+    "ticker": "META",
+    "cik": "0001326801",
+    "industry": "tech",
+    "entity_name": "Meta Platforms, Inc."
+  },
+  {
+    "ticker": "ADBE",
+    "cik": "0000796343",
+    "industry": "tech",
+    "entity_name": "ADOBE INC."
+  },
+  {
+    "ticker": "CRM",
+    "cik": "0001108524",
+    "industry": "tech",
+    "entity_name": "Salesforce, Inc."
+  },
+  {
+    "ticker": "ORCL",
+    "cik": "0001341439",
+    "industry": "tech",
+    "entity_name": "Oracle Corporation"
+  },
+  {
+    "ticker": "CSCO",
+    "cik": "0000858877",
+    "industry": "tech",
+    "entity_name": "CISCO SYSTEMS, INC."
+  },
+  {
+    "ticker": "INTC",
+    "cik": "0000050863",
+    "industry": "tech",
+    "entity_name": "INTEL CORP"
+  }
+]

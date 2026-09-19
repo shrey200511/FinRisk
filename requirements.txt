@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+scipy
+anthropic
+openpyxl
+python-dotenv
