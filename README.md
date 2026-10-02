@@ -40,7 +40,11 @@ teams actually work).
    and Flagged Anomalies (numbers + AI narrative side by side)
 
 ## PowerBI Dashboard
+
 <img width="906" height="482" alt="image" src="https://github.com/user-attachments/assets/59d1fb4e-0bc6-4644-85de-b72e68f2be8a" />
+<img width="918" height="483" alt="image" src="https://github.com/user-attachments/assets/31b0d08f-575a-4ed2-92a1-6988aa3f5851" />
+<img width="918" height="486" alt="image" src="https://github.com/user-attachments/assets/ae754d0f-1aac-4566-be0e-d1f64dc993b1" />
+<img width="925" height="483" alt="image" src="https://github.com/user-attachments/assets/5be44d8f-b6a4-46ae-a541-39718334135d" />
 
 ## Data quality notes (the honest part)
 
