@@ -39,6 +39,9 @@ teams actually work).
 6. **Power BI dashboard** — 4 pages: Overview, Company Drill-down, Peer Benchmarking,
    and Flagged Anomalies (numbers + AI narrative side by side)
 
+## PowerBI Dashboard
+<img width="906" height="482" alt="image" src="https://github.com/user-attachments/assets/59d1fb4e-0bc6-4644-85de-b72e68f2be8a" />
+
 ## Data quality notes (the honest part)
 
 Real SEC data is messy, and this project treats that as something to document, not
